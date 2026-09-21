@@ -1,2 +1,2 @@
-# Dise-o-de-aplicaciones-moviles
+# Diseno-de-aplicaciones-moviles
 Experiencias de usuario
